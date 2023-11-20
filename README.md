@@ -13,9 +13,9 @@ HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los d
 En este proyecto me enfoqué en construir la Mi primera página Web de perritos salchicha. 
 Contiene las siguientes secciones:
 
-- **Header:** Sección que involucra la foto de mi perfil, iconos y un menú con enlaces externos.
-
-- **Main:** Sección del contenedor para os elementos centrales de la página: logo, barra de búsqueda, íconos y botones.
+- **Header:** Sección que involucra la conexión con el estilos y el título del proyecto.
+  
+- **Main:** Sección de imágenes, enlaces externos, listas ordenadas y desordenadas y forms con checks y botones de radio.
 
 - **Footer:** Sección que incluye enlaces externos al final de la página.
 
